@@ -1,0 +1,42 @@
+<?php
+    $alternate = array(
+        'es' => array(
+            'home' => 'http://m.sevillacenterapartments.com/en',
+            'cookies' => 'http://m.sevillacenterapartments.com/en/cookies',
+            'privacy' => 'http://m.sevillacenterapartments.com/en/privacy',
+            'legal' => 'http://m.sevillacenterapartments.com/en/legal',
+            'apartments-list' => 'http://m.sevillacenterapartments.com/en/apartments',
+            'apartment-data_b1' => 'http://m.sevillacenterapartments.com/en/apartments/b1-apartment',
+            'apartment-data_b2' => 'http://m.sevillacenterapartments.com/en/apartments/b2-apartment',
+            'apartment-data_b3' => 'http://m.sevillacenterapartments.com/en/apartments/b3-apartment',
+            'apartment-data_b4' => 'http://m.sevillacenterapartments.com/en/apartments/b4-apartment',
+            'apartment-data_b5' => 'http://m.sevillacenterapartments.com/en/apartments/b5-apartment',
+            'apartment-data_1i' => 'http://m.sevillacenterapartments.com/en/apartments/1i-apartment',
+            'apartment-data_1d' => 'http://m.sevillacenterapartments.com/en/apartments/1d-apartment',
+            'apartment-data_2i' => 'http://m.sevillacenterapartments.com/en/apartments/2i-apartment',
+            'apartment-data_2d' => 'http://m.sevillacenterapartments.com/en/apartments/2d-apartment',
+            'apartment-data_ai' => 'http://m.sevillacenterapartments.com/en/apartments/ai-apartment',
+            'apartment-data_ac' => 'http://m.sevillacenterapartments.com/en/apartments/ac-apartment',
+            'apartment-data_ad' => 'http://m.sevillacenterapartments.com/en/apartments/ad-apartment'
+        ),
+        'en' => array(
+            'home' => 'http://m.sevillacenterapartments.com/es',
+            'cookies' => 'http://m.sevillacenterapartments.com/es/politica-de-cookies',
+            'privacy' => 'http://m.sevillacenterapartments.com/es/politica-de-privacidad',
+            'legal' => 'http://m.sevillacenterapartments.com/es/aviso-legal',
+            'apartments-list' => 'http://m.sevillacenterapartments.com/es/apartamentos',
+            'apartment-data_b1' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b1',
+            'apartment-data_b2' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b2',
+            'apartment-data_b3' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b3',
+            'apartment-data_b4' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b4',
+            'apartment-data_b5' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b5',
+            'apartment-data_1i' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-1i',
+            'apartment-data_1d' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-1d',
+            'apartment-data_2i' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-2i',
+            'apartment-data_2d' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-2d',
+            'apartment-data_ai' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ai',
+            'apartment-data_ac' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ac',
+            'apartment-data_ad' => 'http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ad'
+        )
+    );
+?>

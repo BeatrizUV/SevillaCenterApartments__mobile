@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/</loc>
+        <priority>0.50</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b1</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/b1-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b2</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/b2-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b3</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/b3-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b4</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/b4-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b5</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/b5-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-1i</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/1i-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-1d</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/1d-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-2i</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/2i-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-2d</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/2d-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ai</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/ai-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ac</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/ac-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ad</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/apartments/ad-apartment" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/aviso-legal</loc>
+        <priority>0.00</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/legal" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/politica-de-privacidad</loc>
+        <priority>0.00</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/privacy" />
+    </url>
+    <url>
+        <loc>http://m.sevillacenterapartments.com/es/politica-de-cookies</loc>
+        <priority>0.00</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="http://m.sevillacenterapartments.com/en/cookies" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/</loc>
+      <priority>0.50</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments</loc>
+      <priority>1.00</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/b1-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b1" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/b2-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b2" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/b3-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b3" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/b4-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b4" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/b5-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-b5" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/1i-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-1i" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/1d-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-1d" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/2i-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-2i" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/2d-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-2d" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/ai-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ai" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/ac-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ac" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/apartments/ad-apartment</loc>
+      <priority>0.80</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/apartamentos/apartamento-ad" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/legal</loc>
+      <priority>0.00</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/aviso-legal" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/privacy</loc>
+      <priority>0.00</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/politica-de-privacidad" />
+    </url>
+    <url>
+      <loc>http://m.sevillacenterapartments.com/en/cookies</loc>
+      <priority>0.00</priority>
+      <xhtml:link rel="alternate" hreflang="es" href="http://m.sevillacenterapartments.com/es/politica-de-cookies" />
+    </url>
+</urlset>

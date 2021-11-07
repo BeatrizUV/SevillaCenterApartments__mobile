@@ -1,0 +1,468 @@
+<?php
+    $language = array(
+        'meta' => array(
+            'home' => array(
+                'title'       => 'Sevilla Center Apartments',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center',
+                'description' => 'Sevilla Center Apartments. Apartments for rent in the center of Seville. For the Feria de Sevilla, Easter Sevilla and many other events.',
+                'canonical'   => 'http://www.sevillacenterapartments.com/en'
+            ),
+            'cookies' => array(
+                'title'       => 'Sevilla Center Apartments | Cookies',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, cookies',
+                'description' => 'Sevilla Center Apartments. Cookies policy.',
+                'canonical'   => 'http://www.sevillacenterapartments.com/en/privacy'
+            ),
+            'legal' => array(
+                'title'       => 'Sevilla Center Apartments | Legal',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, aviso legal',
+                'description' => 'Sevilla Center Apartments. Legal advertisement.',
+                'canonical'   => 'http://www.sevillacenterapartments.com/en/legal-notice'
+            ),
+            'privacy' => array(
+                'title'       => 'Sevilla Center Apartments | Privacy',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, politica de privacidad',
+                'description' => 'Sevilla Center Apartments. Privacy policy, terms and conditions.',
+                'canonical'   => 'http://www.sevillacenterapartments.com/en/privacy'
+            ),
+            'apartments-list' => array(
+                'title'       => 'Sevilla Center Apartments | Apartments for renting in Seville center',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, listado de apartamentos disponibles',
+                'description' => 'Sevilla Center Apartments. List of apartments available for rent in Sevilla center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/en/apartments/concordia'
+            ),
+            'apartment-data_b1' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Bajo 1 in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, b1 apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Bajo 1 in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-b1'
+            ),
+            'apartment-data_b2' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Bajo 2 in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, b2 apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Bajo 2 in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-b2'
+            ),
+            'apartment-data_b3' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Bajo 3 in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, b3 apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Bajo 3 in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-b3'
+            ),
+            'apartment-data_b4' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Bajo 4 in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, b4 apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Bajo 4 in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-b4'
+            ),
+            'apartment-data_b5' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Bajo 5 in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, b5 apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Bajo 5 in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-b5'
+            ),
+            'apartment-data_1i' => array(
+                'title'       => 'Sevilla Center Apartments | Renting 1º Izquierda in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, 1i apartment',
+                'description' => 'Sevilla Center Apartments. Renting of 1º Izquierda in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-1i'
+            ),
+            'apartment-data_1d' => array(
+                'title'       => 'Sevilla Center Apartments | Renting 1º Derecha in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, 1d apartment',
+                'description' => 'Sevilla Center Apartments. Renting of 1º Derecha in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-1d'
+            ),
+            'apartment-data_2i' => array(
+                'title'       => 'Sevilla Center Apartments | Renting 2º Izquierda in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, 2i apartment',
+                'description' => 'Sevilla Center Apartments. Renting of 2º Izquierda in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-2i'
+            ),
+            'apartment-data_2d' => array(
+                'title'       => 'Sevilla Center Apartments | Renting 2º Derecha in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, 2d apartment',
+                'description' => 'Sevilla Center Apartments. Renting of 2º Derecha in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-2d'
+            ),
+            'apartment-data_ai' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Ático Izquierda in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, ai apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Ático Izquierda in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-ai'
+            ),
+            'apartment-data_ac' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Ático Centro in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, ac apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Ático Centro in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-ac'
+            ),
+            'apartment-data_ad' => array(
+                'title'       => 'Sevilla Center Apartments | Renting Ático Derecha in Seville',
+                'keywords'    => 'sevilla center apartments, apartments sevilla, sevilla center, seville centre, seville center apartments, apartments rent, apartments rent seville, rent apartments in seville center, ad apartment',
+                'description' => 'Sevilla Center Apartments. Renting of Ático Derecha in Seville Center',
+                'canonical'   => 'http://www.sevillacenterapartments.com/es/apartamento/apartamento-concordia-ad'
+            )
+        ),
+        'content' => array(
+            'menu'          => array(
+                'apartments' => array(
+                    'title' => 'Apartments',
+                    'url' => $url.'/apartments'
+                ),
+            ),
+            'apt-labels'   => array(
+                'description'    => 'Description',
+                'price'          => 'Price',
+                'from'           => 'Since',
+                'size'           => 'Size',
+                'guests'         => 'Guests',
+                'rooms'          => 'Rooms',
+                'bathrooms'      => 'Bathrooms',
+                'kitchen'        => 'Kitchen',
+                'terrace'        => 'Terrace',
+                'courtyard'      => 'Courtyard',
+                'availability'   => 'Availability',
+                'reserve'        => 'Booking apartment',
+                'equipment'      => 'Equipment',
+                'a/c'            => 'Air Conditioner',
+                'wifi'           => 'Free Wifi',
+                'blueprint'      => 'Blueprint',
+                'more-equipment' => '<p>The apartment has towels, hair dryer, and everything you need in the kitchen and in the bathroom.</p>
+                                     <p>It has Wi-Fi internet and TV, air conditioning and heating in each of the separate rooms.</p>
+                                     <p>The kitchen has everything you need to cook during your stay.</p>
+                                     <p>The bathroom is complete and has everything you need (gel, shampoo, hair dryer, towels...)</p>'
+            ),
+            'apartments'    => array(
+                'brand'     => 'Apartments in Sevilla Center',
+                'concordia' => array(
+                    'building'  => 'Concordia Building',
+                    'list'      => array(
+                        'b1' => array(
+                            'name'        => 'B1 Apartment',
+                            'url'         => 'apartments/b1-apartment',
+                            'description' => array(
+                               'price'     => '62.00',
+                               'size'      => '430.556',
+                               'guests'    => 4,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'Yes',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 14,
+                            'images-path' => '/images/apartments/concordia/b1/apartamento-concordia-b1',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b1.jpg',
+                            'ical'        => 'ics-19674-172f242c2bb21cc3bbb5e996ca96bbed',
+                            'wubook-id'   => '128535'
+                        ),
+                        'b2' => array(
+                            'name'        => 'B2 Apartment',
+                            'url'         => 'apartments/b2-apartment',
+                            'description' => array(
+                               'price'     => '67.00',
+                               'size'      => '430.556',
+                               'guests'    => 4,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'Yes',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 14, 
+                            'images-path' => '/images/apartments/concordia/b2/apartamento-concordia-b2',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/bajo2.jpg',
+                            'ical'        => 'ics-19674-90a6a8944f1998c34b87de0de793300b',
+                            'wubook-id'   => '128539'
+                        ),
+                        'b3' => array(
+                            'name'        => 'B3 Apartment',
+                            'url'         => 'apartments/b3-apartment',
+                            'description' => array(
+                               'price'     => '67.00',
+                               'size'      => '527.432',
+                               'guests'    => 4,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'Yes',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 21, 
+                            'images-path' => '/images/apartments/concordia/b3/apartamento-concordia-b3',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b3.jpg',
+                            'ical'        => 'ics-19674-1592676763ba3b2202491440e1d8f040',
+                            'wubook-id'   => '128542'
+                        ),
+                        'b4' => array(
+                            'name'        => 'B4 Apartment',
+                            'url'         => 'apartments/b4-apartment',
+                            'description' => array(
+                               'price'     => '62.00',
+                               'size'      => '322.917',
+                               'guests'    => 4,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'Yes',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 12, 
+                            'images-path' => '/images/apartments/concordia/b4/apartamento-concordia-b4',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b4.jpg',
+                            'ical'        => 'ics-19674-b31c7c5ed859b280e47d5153d5e11fde',
+                            'wubook-id'   => '128543'
+                        ),
+                        'b5' => array(
+                            'name'        => 'B5 Apartment',
+                            'url'         => 'apartments/b5-apartment',
+                            'description' => array(
+                               'price'     => '45.00',
+                               'size'      => '322.917',
+                               'guests'    => 2,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'Yes',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 9, 
+                            'images-path' => '/images/apartments/concordia/b5/apartamento-concordia-b5',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b5.jpg',
+                            'ical'        => 'ics-19674-5988c8ead1027496d65937e141c87a8b',
+                            'wubook-id'   => '128544'
+                        ),
+                        '1i' => array(
+                            'name'        => '1I Apartment',
+                            'url'         => 'apartments/1i-apartment',
+                            'description' => array(
+                               'price'     => '73.00',
+                               'size'      => '592.015',
+                               'guests'    => 4,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'No',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 15, 
+                            'images-path' => '/images/apartments/concordia/1i/apartamento-concordia-1i',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/primero_izq.jpg',
+                            'ical'        => 'ics-19674-87fcb026c234e80778f254de05ec4c27',
+                            'wubook-id'   => '128524'
+                        ),
+                        '1d' => array(
+                            'name'        => '1D Apartment',
+                            'url'         => 'apartments/1d-apartment',
+                            'description' => array(
+                               'price'     => '101.00',
+                               'size'      => '861.113',
+                               'guests'    => 6,
+                               'rooms'     => 2,
+                               'beds'      => '1 double bed, 2 single beds and 1 double sofa-bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'No',   
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 21, 
+                            'images-path' => '/images/apartments/concordia/1d/apartamento-concordia-1d',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/1_derecha.jpg',
+                            'ical'        => 'ics-19674-7961729dca5d477e73ed1c1016f4b5b9',
+                            'wubook-id'   => '128523'
+                        ),
+                        '2i' => array(
+                            'name'        => '2I Apartment',
+                            'url'         => 'apartments/2i-apartment',
+                            'description' => array(
+                               'price'     => '112.00',
+                               'size'      => '753.474',
+                               'guests'    => 6,
+                               'rooms'     => 2,
+                               'beds'      => '1 double bed, 2 single beds and 1 double sofa-bed',
+                               'bathrooms' => 2,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'No',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 16, 
+                            'images-path' => '/images/apartments/concordia/2i/apartamento-concordia-2i',
+                            'blueprint'   => 'http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-2-izq.jpg',
+                            'ical'        => 'ics-19674-1a7641b9ffe0c822e51c2d43e8375ce4',
+                            'wubook-id'   => '128528'
+                        ),
+                        '2d' => array(
+                            'name'        => '2D Apartment',
+                            'url'         => 'apartments/2d-apartment',
+                            'description' => array(
+                               'price'     => '112.00',
+                               'size'      => '861.113',
+                               'guests'    => 6,
+                               'rooms'     => 3,
+                               'beds'      => '1 double bed and 4 single beds',
+                               'bathrooms' => 2,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'No',
+                               'courtyard' => 'No',    
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 15, 
+                            'images-path' => '/images/apartments/concordia/2d/apartamento-concordia-2d',
+                            'blueprint'   => 'http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-2d.png',
+                            'ical'        => 'ics-19674-e1d6d8dff1ee51ad6262cb4cc1448a8b',
+                            'wubook-id'   => '129499'
+                        ),
+                        'ai' => array(
+                            'name'        => 'AI Apartment',
+                            'url'         => 'apartments/ai-apartment',
+                            'description' => array(
+                               'price'     => '73.00',
+                               'size'      => '322.917',
+                               'guests'    => 2,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'Yes',
+                               'courtyard' => 'No',   
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 13, 
+                            'images-path' => '/images/apartments/concordia/ai/apartamento-concordia-ai',
+                            'blueprint'   => 'http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-ai.png',
+                            'ical'        => 'ics-19674-f34a6a3e9dada539eacebdaab8b7ebeb',
+                            'wubook-id'   => '129500'
+                        ),
+                        'ac' => array(
+                            'name'        => 'AC Apartment',
+                            'url'         => 'apartments/ac-apartment',
+                            'description' => array(
+                               'price'     => '95.00',
+                               'size'      => '753.474',
+                               'guests'    => 6,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed and 2 double sofa-beds',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'Yes',
+                               'courtyard' => 'No',   
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 17, 
+                            'images-path' => '/images/apartments/concordia/ac/apartamento-concordia-ac',
+                            'blueprint'   => 'http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-ac.png',
+                            'ical'        => 'ics-19674-1db6c965a2b2481c38a8e10014c48d73',
+                            'wubook-id'   => '128530'
+                        ),
+                        'ad' => array(
+                            'name'        => 'AD Apartment',
+                            'url'         => 'apartments/ad-apartment',
+                            'description' => array(
+                               'price'     => '73.00',
+                               'size'      => '322,917',
+                               'guests'    => 2,
+                               'rooms'     => 1,
+                               'beds'      => '1 double bed',
+                               'bathrooms' => 1,
+                               'kitchen'   => 'Yes',
+                               'terrace'   => 'Yes',
+                               'courtyard' => 'No',   
+                               'wifi'      => 'Yes',
+                               'a/c'       => 'Yes',
+                            ),
+                            'images'      => 11, 
+                            'images-path' => '/images/apartments/concordia/ad/apartamento-concordia-ad',
+                            'blueprint'   => 'http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-ad.png',
+                            'ical'        => 'ics-19674-f0198513ea3ecccbef1155c4f5eeaa43',
+                            'wubook-id'   => '128533'
+                        )                        
+                    )
+                )
+            ),
+            'footer'         => array(
+                'email'         => 'Contact',
+                'subject'       => 'SevillaCenterApartments%20%2D%20Information%20request',
+                'phone'         => 'Phone us',
+                'booking'       => 'Book now!',
+                'cookies-alert' => array(
+                    'title'    => 'Cookies use',
+                    'accept'   => 'Accept',
+                    'deny'     => 'Leave',
+                    'readmore' => 'Read more...',
+                    'message'  => 'Our website uses cookies to improve our services. For more information visit our Cookies Policy.'
+                ),
+                'legal' => array(
+                    'title'      => 'Legal',
+                    'url'        => '/en/legal'
+                ),
+                'privacy' => array(
+                    'title'      => 'Privacy',
+                    'url'        => '/en/privacy'
+                )
+            ),
+            'cookies' => array(
+                'url' => '/en/cookies'
+            ),
+            'booking-engine' => array(
+                'guests' => 'Guests',
+                'check'  => 'Check availability',
+                'action' => $url.'/booking-apartment',
+                'arrive' => 'Arrive',
+                'left'   => 'Left'
+            )
+        ),
+        'error' => array(
+            '404' => array(
+                'title' => 'Unable to find the page',
+                'text'  => 'Sorry, there could not find the page indicated.
+                            Try using the navigation menu to view different sections of our website.
+                            <br /><br />Thank you.'
+            )
+        ),
+        'urls' => array(
+            'cookies',
+            'legal',
+            'privacy',
+            'apartments',
+            'apartments/b1-apartment',
+            'apartments/b2-apartment',
+            'apartments/b3-apartment',
+            'apartments/b4-apartment',
+            'apartments/b5-apartment',
+            'apartments/1i-apartment',
+            'apartments/1d-apartment',
+            'apartments/2i-apartment',
+            'apartments/2d-apartment',
+            'apartments/ai-apartment',
+            'apartments/ac-apartment',
+            'apartments/ad-apartment',
+            'booking-apartment'
+        )
+    );
+?>

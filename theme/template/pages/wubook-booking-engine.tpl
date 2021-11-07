@@ -1,0 +1,1 @@
+<?php __wb_bookingRedirect(); ?>

@@ -1,0 +1,313 @@
+CACHE MANIFEST
+# 27/04/2015:v1
+# Cacheados los archivos de:
+# /es
+# /es/apartamentos
+# /es/apartamentos/apartamento-b1
+# /es/apartamentos/apartamento-b2
+# /es/apartamentos/apartamento-b3
+# /es/apartamentos/apartamento-b4
+# /es/apartamentos/apartamento-b5
+# /es/apartamentos/apartamento-1i
+# /es/apartamentos/apartamento-1d
+# /es/apartamentos/apartamento-2i
+# /es/apartamentos/apartamento-2d
+# /es/apartamentos/apartamento-ai
+# /es/apartamentos/apartamento-ac
+# /es/apartamentos/apartamento-ad
+# /es/404
+# /en
+# /en/apartments
+# /en/apartments/b1-apartment
+# /en/apartments/b2-apartment
+# /en/apartments/b3-apartment
+# /en/apartments/b4-apartment
+# /en/apartments/b5-apartment
+# /en/apartments/1i-apartment
+# /en/apartments/1d-apartment
+# /en/apartments/2i-apartment
+# /en/apartments/2d-apartment
+# /en/apartments/ai-apartment
+# /en/apartments/ac-apartment
+# /en/apartments/ad-apartment
+# /en/404
+
+################################################################
+
+CACHE:
+#CSS
+theme/css/customs.min.css
+
+#JS
+theme/js/google-analytics.min.js
+theme/js/cookies/jquery.cookie.min.js
+theme/js/cookies.min.js
+theme/js/slider.min.js
+
+#IMAGES
+theme/images/favicon.png
+theme/images/flag_en.png
+theme/images/flag_es.png
+images/home/sevilla-center-apartments-01.jpg
+images/home/sevilla-center-apartments-02.jpg
+images/home/sevilla-center-apartments-03.jpg
+images/home/sevilla-center-apartments-04.jpg
+images/home/sevilla-center-apartments-05.jpg
+images/apartments/concordia/apartment-b1_thumb.jpg
+images/apartments/concordia/apartment-b2_thumb.jpg
+images/apartments/concordia/apartment-b3_thumb.jpg
+images/apartments/concordia/apartment-b4_thumb.jpg
+images/apartments/concordia/apartment-b5_thumb.jpg
+images/apartments/concordia/apartment-1i_thumb.jpg
+images/apartments/concordia/apartment-1d_thumb.jpg
+images/apartments/concordia/apartment-2i_thumb.jpg
+images/apartments/concordia/apartment-2d_thumb.jpg
+images/apartments/concordia/apartment-ai_thumb.jpg
+images/apartments/concordia/apartment-ac_thumb.jpg
+images/apartments/concordia/apartment-ad_thumb.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_1.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_2.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_3.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_4.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_5.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_6.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_7.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_8.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_9.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_10.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_11.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_12.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_13.jpg
+images/apartments/concordia/b1/apartamento-concordia-b1_14.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_1.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_2.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_3.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_4.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_5.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_6.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_7.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_8.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_9.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_10.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_11.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_12.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_13.jpg
+images/apartments/concordia/b2/apartamento-concordia-b2_14.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_1.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_2.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_3.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_4.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_5.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_6.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_7.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_8.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_9.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_10.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_11.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_12.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_13.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_14.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_15.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_16.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_17.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_18.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_19.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_20.jpg
+images/apartments/concordia/b3/apartamento-concordia-b3_21.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_1.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_2.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_3.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_4.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_5.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_6.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_7.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_8.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_9.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_10.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_11.jpg
+images/apartments/concordia/b4/apartamento-concordia-b4_12.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_1.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_2.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_3.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_4.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_5.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_6.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_7.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_8.jpg
+images/apartments/concordia/b5/apartamento-concordia-b5_9.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_1.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_2.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_3.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_4.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_5.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_6.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_7.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_8.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_9.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_10.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_11.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_12.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_13.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_14.jpg
+images/apartments/concordia/1i/apartamento-concordia-1i_15.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_1.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_2.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_3.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_4.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_5.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_6.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_7.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_8.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_9.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_10.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_11.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_12.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_13.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_14.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_15.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_16.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_17.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_18.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_19.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_20.jpg
+images/apartments/concordia/1d/apartamento-concordia-1d_21.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_1.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_2.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_3.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_4.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_5.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_6.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_7.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_8.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_9.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_10.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_11.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_12.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_13.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_14.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_15.jpg
+images/apartments/concordia/2i/apartamento-concordia-2i_16.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_1.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_2.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_3.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_4.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_5.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_6.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_7.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_8.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_9.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_10.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_11.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_12.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_13.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_14.jpg
+images/apartments/concordia/2d/apartamento-concordia-2d_15.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_1.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_2.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_3.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_4.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_5.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_6.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_7.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_8.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_9.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_10.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_11.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_12.jpg
+images/apartments/concordia/ai/apartamento-concordia-ai_13.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_1.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_2.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_3.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_4.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_5.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_6.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_7.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_8.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_9.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_10.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_11.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_12.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_13.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_14.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_15.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_16.jpg
+images/apartments/concordia/ac/apartamento-concordia-ac_17.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_1.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_2.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_3.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_4.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_5.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_6.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_7.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_8.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_9.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_10.jpg
+images/apartments/concordia/ad/apartamento-concordia-ad_11.jpg
+theme/images/error-404-page-not-found.png
+
+# HTML
+cache/es/home.html
+cache/es/apartments.html
+cache/es/apartment-b1.html
+cache/es/apartment-b2.html
+cache/es/apartment-b3.html
+cache/es/apartment-b4.html
+cache/es/apartment-b5.html
+cache/es/apartment-1i.html
+cache/es/apartment-1d.html
+cache/es/apartment-2i.html
+cache/es/apartment-2d.html
+cache/es/apartment-ai.html
+cache/es/apartment-ac.html
+cache/es/apartment-ad.html
+cache/es/cookies.html
+cache/es/legal.html
+cache/es/privacy.html
+cache/es/error.html
+cache/en/home.html
+cache/en/apartments.html
+cache/en/apartment-b1.html
+cache/en/apartment-b2.html
+cache/en/apartment-b3.html
+cache/en/apartment-b4.html
+cache/en/apartment-b5.html
+cache/en/apartment-1i.html
+cache/en/apartment-1d.html
+cache/en/apartment-2i.html
+cache/en/apartment-2d.html
+cache/en/apartment-ai.html
+cache/en/apartment-ac.html
+cache/en/apartment-ad.html
+cache/en/cookies.html
+cache/en/legal.html
+cache/en/privacy.html
+cache/en/error.html
+
+################################################################
+
+NETWORK:
+#CSS
+http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+http://fonts.googleapis.com/css?family=Merriweather:400,300,700,900
+http://fonts.gstatic.com/s/merriweather/v11/ZvcMqxEwPfh2qDWBPxn6nnNuWYKPzoeKl5tYj8yhly0.woff2
+http://fonts.gstatic.com/s/merriweather/v11/RFda8w1V0eDZheqfcyQ4EOgdm0LZdjqr5-oayXSOefg.woff2
+
+#JS
+http://code.jquery.com/jquery-1.12.0.min.js
+http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+https://www.google-analytics.com/analytics.js
+
+#IMAGES
+http://code.jquery.com/mobile/1.4.5/images/ajax-loader.gif
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b1.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/bajo2.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b3.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b4.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/b5.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/primero_izq.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/1_derecha.jpg
+http://www.sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-2-izq.jpg
+http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-2d.png
+http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-ai.png
+http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-ac.png
+http://sevillacenterapartments.com/sites/default/files/habitaciones/plano/plano-apartamento-concordia-ad.png

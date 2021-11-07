@@ -1,0 +1,17 @@
+# Sitemap: http://m.sevillacenterapartments.com/sitemap.xml
+# Sitemap: http://m.sevillacenterapartments.com/sitemap.xml.gz
+# Sitemap: http://m.sevillacenterapartments.com/img-sitemap.xml
+# Sitemap: http://m.sevillacenterapartments.com/img-sitemap.xml.gz
+
+User-agent: *
+Disallow: /
+# Disallow: /includes/
+# Disallow: /lang/
+# Disallow: /es/config.php
+# Disallow: /es/assignments.php
+# Disallow: /en/config.php
+# Disallow: /en/assignments.php
+# Disallow: /theme/css/
+# Disallow: /theme/js/
+# Disallow: /theme/template/
+# Disallow: /cache/
